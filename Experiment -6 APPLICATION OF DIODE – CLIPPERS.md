@@ -11,13 +11,16 @@ To design and analyze diode clipper circuits
 4. Do a similar procedure for the given clipper circuits.
 
 # Circuit Diagram & Model Graph:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/be3da558-5663-4d6b-a48a-e03d76ac145b" />
 
 
 # Tabular Column and Calculation:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/fc29fce1-bc2e-41ab-a75d-6d9f225126f7" />
 
 
 # Graph:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b86a0af9-94cc-4a35-a5f6-e927279174a0" />
 
 
  # Result:
- 
+ Thus the clipper operation was studied.
